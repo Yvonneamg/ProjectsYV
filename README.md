@@ -7,7 +7,7 @@ Tools: Excel
 Contents: Pivot tables (Sales and profit by Region, Category), Charts (Bar, Pie, Line), KPIs (Revenue, Profit Margin, Top region sales)
 
 Purpose: Analyze sales trends and product performance
-
+**Pivot Tables**
 <img width="484" alt="image" src="https://github.com/user-attachments/assets/dfa13d99-5003-4263-a5e6-cbec4bcf6128" />
 
 
