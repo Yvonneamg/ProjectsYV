@@ -1,4 +1,4 @@
-E-commerce Sales Analysis
+**E-commerce Sales Analysis**
 Tools: Excel
 Contents: Pivot tables (Sales by Region, Category), Charts (Bar, Pie, Line), KPIs (Revenue, Profit Margin)
 Purpose: Analyze sales trends and product performance
