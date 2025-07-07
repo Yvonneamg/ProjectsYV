@@ -5,5 +5,10 @@ The data used for this analysis is the Super store sales dataset from Kaggle. Th
 Tools: Excel
 
 Contents: Pivot tables (Sales and profit by Region, Category), Charts (Bar, Pie, Line), KPIs (Revenue, Profit Margin, Top region sales)
+
 Purpose: Analyze sales trends and product performance
+
+<img width="484" alt="image" src="https://github.com/user-attachments/assets/dfa13d99-5003-4263-a5e6-cbec4bcf6128" />
+
+
 <img width="883" alt="image" src="https://github.com/user-attachments/assets/be54e4e2-d85d-4123-afb0-af0c858f3570" />
